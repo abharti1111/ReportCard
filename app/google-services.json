@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "490257542897",
+    "firebase_url": "https://report-card-b8a27.firebaseio.com",
+    "project_id": "report-card-b8a27",
+    "storage_bucket": "report-card-b8a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490257542897:android:df4f5ffa608d56020a4350",
+        "android_client_info": {
+          "package_name": "com.example.reportcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490257542897-r3eb115su6m8gtbklltp4c8cc8umucbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reportcard",
+            "certificate_hash": "2e2ef99049d78f6d4886f1dcbc52a5313d282f3d"
+          }
+        },
+        {
+          "client_id": "490257542897-5ivsn9b7dc51aipd20troie4812enqn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHyYzj6az_-L_LkbJ6YqqE6Gg2ZUHIxlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490257542897-5ivsn9b7dc51aipd20troie4812enqn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
